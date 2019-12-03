@@ -1,2 +1,0 @@
-# KeepareApp
-Created with CodeSandbox
